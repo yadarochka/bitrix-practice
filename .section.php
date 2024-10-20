@@ -1,9 +1,9 @@
 <?
-$sSectionName = "Тест";
+$sSectionName = "Voguish";
 $arDirProperties = Array(
-   "description" => "Тест",
-   "keywords" => "Тест",
-   "title" => "Тест",
-   "keywords_inner" => "Тест"
+   "description" => "Главная страница",
+   "keywords" => "Главная страница",
+   "title" => "Главная страница",
+   "keywords_inner" => "Главная страница"
 );
 ?>

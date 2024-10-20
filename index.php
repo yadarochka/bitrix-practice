@@ -6,7 +6,7 @@ $APPLICATION->SetTitle("Новости банка");
 
 
 
-<p><? $APPLICATION->ShowTitle();?></p>
+<!-- <p><? $APPLICATION->ShowTitle();?></p> -->
 
 <!-- banner -->
 <div class="banner">		
@@ -77,10 +77,5 @@ $APPLICATION->SetTitle("Новости банка");
 							<div class="clearfix"> </div>
 					</div>	
 		</div>
-		<!-- nam-matis -->	
-
-
-
-
 
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
