@@ -1,0 +1,1 @@
+<a href="kotik-s-bananom.php"><img width="205" src="/upload/medialibrary/dbc/jg2ha0726vqkjh14ijgyksv4vda2ww12.jpg" height="205" title="Котик" alt="Котик"></a>
